@@ -40,7 +40,7 @@ BOOL WINAPI DllMain( HINSTANCE inst, ULONG reason, LPVOID )
 
 MAXEXPORT_API const TCHAR* LibDescription()
 {
-	return _T("3dsmax 12 Exporter");
+	return _T("3dsmax 16 Exporter");
 }
 
 MAXEXPORT_API int LibNumberClasses()

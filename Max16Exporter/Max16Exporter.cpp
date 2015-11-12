@@ -898,7 +898,7 @@ const TCHAR* Max16Exporter::Ext( int /*n*/ )
 
 const TCHAR* Max16Exporter::LongDesc()
 {
-	return _T("My 3dsmax 12 Exporter");
+	return _T("My 3dsmax 16 Exporter");
 }
 
 const TCHAR* Max16Exporter::ShortDesc()
